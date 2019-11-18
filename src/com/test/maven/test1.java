@@ -30,21 +30,21 @@ public class test1 {
 	public static void Test1()
 	{
 		driver.get("http://www.zensar.com");
-		System.out.println("Test1 Titile : "+driver.getTitle());
+		System.out.println("Test1 Titile :  "+driver.getTitle());
 	}
 	
 	@Test
 	public static void Test2()
 	{
 		driver.get("http://www.google.com");
-		System.out.println("Test2 Titile : "+driver.getTitle());
+		System.out.println("Test2 Titile :  "+driver.getTitle());
 	}
 	
 	@Test
 	public static void Test3()
 	{
 		driver.get("http://www.yash.com");
-		System.out.println("Test3 Titile : "+driver.getTitle());
+		System.out.println("Test3 Titile :  "+driver.getTitle());
 	}
 	
 	@AfterMethod
