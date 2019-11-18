@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="52782" started-at="2019-11-18T04:29:37Z" finished-at="2019-11-18T04:30:30Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="52782" started-at="2019-11-18T04:29:37Z" finished-at="2019-11-18T04:30:30Z">
+      <class name="com.test.maven.test1">
+        <test-method status="PASS" signature="launchDriver()[pri:0, instance:com.test.maven.test1@401e7803]" name="launchDriver" is-config="true" duration-ms="13168" started-at="2019-11-18T04:29:37Z" finished-at="2019-11-18T04:29:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:com.test.maven.test1@401e7803]" name="Test1" duration-ms="7722" started-at="2019-11-18T04:29:50Z" finished-at="2019-11-18T04:29:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.test.maven.test1@401e7803]" name="quit" is-config="true" duration-ms="1880" started-at="2019-11-18T04:29:58Z" finished-at="2019-11-18T04:30:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="launchDriver()[pri:0, instance:com.test.maven.test1@401e7803]" name="launchDriver" is-config="true" duration-ms="9434" started-at="2019-11-18T04:30:00Z" finished-at="2019-11-18T04:30:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method status="PASS" signature="Test2()[pri:0, instance:com.test.maven.test1@401e7803]" name="Test2" duration-ms="1360" started-at="2019-11-18T04:30:09Z" finished-at="2019-11-18T04:30:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.test.maven.test1@401e7803]" name="quit" is-config="true" duration-ms="1191" started-at="2019-11-18T04:30:11Z" finished-at="2019-11-18T04:30:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="launchDriver()[pri:0, instance:com.test.maven.test1@401e7803]" name="launchDriver" is-config="true" duration-ms="9657" started-at="2019-11-18T04:30:12Z" finished-at="2019-11-18T04:30:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method status="PASS" signature="Test3()[pri:0, instance:com.test.maven.test1@401e7803]" name="Test3" duration-ms="7367" started-at="2019-11-18T04:30:22Z" finished-at="2019-11-18T04:30:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.test.maven.test1@401e7803]" name="quit" is-config="true" duration-ms="980" started-at="2019-11-18T04:30:29Z" finished-at="2019-11-18T04:30:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.test.maven.test1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
