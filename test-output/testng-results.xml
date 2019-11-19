@@ -1,49 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="110066" started-at="2019-11-19T05:10:58Z" finished-at="2019-11-19T05:12:49Z">
+  <suite name="Default suite" duration-ms="26549" started-at="2019-11-19T13:35:53Z" finished-at="2019-11-19T13:36:19Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="110066" started-at="2019-11-19T05:10:58Z" finished-at="2019-11-19T05:12:49Z">
-      <class name="com.test.maven.TestGrid">
-        <test-method status="PASS" signature="launchDriver()[pri:0, instance:com.test.maven.TestGrid@1786f9d5]" name="launchDriver" is-config="true" duration-ms="43111" started-at="2019-11-19T05:10:59Z" finished-at="2019-11-19T05:11:42Z">
+    <test name="Default test" duration-ms="26549" started-at="2019-11-19T13:35:53Z" finished-at="2019-11-19T13:36:19Z">
+      <class name="com.test.maven.TestBrowserStack">
+        <test-method status="PASS" signature="launchDriver()[pri:0, instance:com.test.maven.TestBrowserStack@1786f9d5]" name="launchDriver" is-config="true" duration-ms="18979" started-at="2019-11-19T13:35:53Z" finished-at="2019-11-19T13:36:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchDriver -->
-        <test-method status="PASS" signature="Test1()[pri:0, instance:com.test.maven.TestGrid@1786f9d5]" name="Test1" duration-ms="12487" started-at="2019-11-19T05:11:42Z" finished-at="2019-11-19T05:11:54Z">
+        <test-method status="PASS" signature="Test1()[pri:0, instance:com.test.maven.TestBrowserStack@1786f9d5]" name="Test1" duration-ms="5750" started-at="2019-11-19T13:36:12Z" finished-at="2019-11-19T13:36:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test1 -->
-        <test-method status="PASS" signature="quit()[pri:0, instance:com.test.maven.TestGrid@1786f9d5]" name="quit" is-config="true" duration-ms="654" started-at="2019-11-19T05:11:54Z" finished-at="2019-11-19T05:11:55Z">
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.test.maven.TestBrowserStack@1786f9d5]" name="quit" is-config="true" duration-ms="1773" started-at="2019-11-19T13:36:17Z" finished-at="2019-11-19T13:36:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quit -->
-        <test-method status="PASS" signature="launchDriver()[pri:0, instance:com.test.maven.TestGrid@1786f9d5]" name="launchDriver" is-config="true" duration-ms="12221" started-at="2019-11-19T05:11:55Z" finished-at="2019-11-19T05:12:07Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- launchDriver -->
-        <test-method status="PASS" signature="Test2()[pri:0, instance:com.test.maven.TestGrid@1786f9d5]" name="Test2" duration-ms="7067" started-at="2019-11-19T05:12:07Z" finished-at="2019-11-19T05:12:14Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Test2 -->
-        <test-method status="PASS" signature="quit()[pri:0, instance:com.test.maven.TestGrid@1786f9d5]" name="quit" is-config="true" duration-ms="327" started-at="2019-11-19T05:12:14Z" finished-at="2019-11-19T05:12:14Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- quit -->
-        <test-method status="PASS" signature="launchDriver()[pri:0, instance:com.test.maven.TestGrid@1786f9d5]" name="launchDriver" is-config="true" duration-ms="10852" started-at="2019-11-19T05:12:14Z" finished-at="2019-11-19T05:12:25Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- launchDriver -->
-        <test-method status="PASS" signature="Test3()[pri:0, instance:com.test.maven.TestGrid@1786f9d5]" name="Test3" duration-ms="22959" started-at="2019-11-19T05:12:25Z" finished-at="2019-11-19T05:12:48Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Test3 -->
-        <test-method status="PASS" signature="quit()[pri:0, instance:com.test.maven.TestGrid@1786f9d5]" name="quit" is-config="true" duration-ms="336" started-at="2019-11-19T05:12:48Z" finished-at="2019-11-19T05:12:49Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- quit -->
-      </class> <!-- com.test.maven.TestGrid -->
+      </class> <!-- com.test.maven.TestBrowserStack -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
